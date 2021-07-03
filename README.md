@@ -1,5 +1,8 @@
 # todo-list
 
+
+### This is very basic Todo-list only for new users :D
+
 ## Project setup
 ```
 yarn install
